@@ -1,0 +1,11 @@
+C:\Users\tim\source\repos\TextBasedRPG\TextBasedRPG\bin\Debug\netcoreapp2.0\TextBasedRPG.deps.json
+C:\Users\tim\source\repos\TextBasedRPG\TextBasedRPG\bin\Debug\netcoreapp2.0\TextBasedRPG.runtimeconfig.json
+C:\Users\tim\source\repos\TextBasedRPG\TextBasedRPG\bin\Debug\netcoreapp2.0\TextBasedRPG.runtimeconfig.dev.json
+C:\Users\tim\source\repos\TextBasedRPG\TextBasedRPG\bin\Debug\netcoreapp2.0\TextBasedRPG.dll
+C:\Users\tim\source\repos\TextBasedRPG\TextBasedRPG\bin\Debug\netcoreapp2.0\TextBasedRPG.pdb
+C:\Users\tim\source\repos\TextBasedRPG\TextBasedRPG\obj\Debug\netcoreapp2.0\TextBasedRPG.csprojAssemblyReference.cache
+C:\Users\tim\source\repos\TextBasedRPG\TextBasedRPG\obj\Debug\netcoreapp2.0\TextBasedRPG.csproj.CoreCompileInputs.cache
+C:\Users\tim\source\repos\TextBasedRPG\TextBasedRPG\obj\Debug\netcoreapp2.0\TextBasedRPG.AssemblyInfoInputs.cache
+C:\Users\tim\source\repos\TextBasedRPG\TextBasedRPG\obj\Debug\netcoreapp2.0\TextBasedRPG.AssemblyInfo.cs
+C:\Users\tim\source\repos\TextBasedRPG\TextBasedRPG\obj\Debug\netcoreapp2.0\TextBasedRPG.dll
+C:\Users\tim\source\repos\TextBasedRPG\TextBasedRPG\obj\Debug\netcoreapp2.0\TextBasedRPG.pdb
